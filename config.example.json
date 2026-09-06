@@ -979,5 +979,28 @@
                 "Translating deadline as 'suggestion'…"
             ]
         }
-    }
+    },
+    "packs": [
+        {
+            "id": "community",
+            "label": {
+                "zh": "社区投稿",
+                "en": "Community"
+            },
+            "phrases": {
+                "zh": {
+                    "running": [
+                        "正在测试词库包流程…",
+                        "正在测试加权包…"
+                    ]
+                },
+                "en": {
+                    "running": [
+                        "正在测试词库包流程…",
+                        "正在测试加权包…"
+                    ]
+                }
+            }
+        }
+    ]
 }
